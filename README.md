@@ -1,4 +1,4 @@
-Heart Disease Prediction
+**Heart Disease Prediction**
 This project is a web application developed using Streamlit for predicting the likelihood of heart disease based on multiple clinical features. The app leverages several machine learning models, including Decision Trees, Logistic Regression, Random Forest, and Support Vector Machine. Additionally, the application provides a bulk prediction feature using CSV files and visualizes model accuracies and F1 Scores for performance comparison.
 
 ✅ Features:
