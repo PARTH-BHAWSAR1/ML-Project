@@ -70,7 +70,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 banner = Image.open("Hospital.png")
-st.image(banner, use_column_width=True, output_format="auto", clamp=True)
+st.image(banner, use_container_width=True, output_format="auto", clamp=True)
 st.title("🏥 Heart Disease Predictor")
 st.write("Your trusted AI-powered health screening tool.")
 
